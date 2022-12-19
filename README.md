@@ -1,6 +1,6 @@
 # Backtracking on Fibonacci sequence
 
-> Practical Work 02 - Algorithm's Projects and Analysis <br>
+> Practical Work 01 - Algorithm's Projects and Analysis <br>
 > It consists of an implementation of an algorithm that finds a route given by the Fibonacci sequence.
 > In the context of the document, there is a matrix that represents a potato plantation which is used to search said
 > route.
